@@ -1,0 +1,24 @@
+{
+  "name": "js-dependent-scraping",
+  "version": "1.0.0",
+  "description": "Scraping a Javascript-dependent Website with Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PacktPublishing/Easy-Web-Scraping-with-Node.js-and-JavaScript/ch2.git"
+  },
+  "author": "Igor Savinkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PacktPublishing/Easy-Web-Scraping-with-Node.js-and-JavaScript/ch2/issues"
+  },
+  "homepage": "https://github.com/PacktPublishing/Easy-Web-Scraping-with-Node.js-and-JavaScript/ch2#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "objects-to-csv": "^1.3.6",
+    "puppeteer": "^2.1.1"
+  }
+}
