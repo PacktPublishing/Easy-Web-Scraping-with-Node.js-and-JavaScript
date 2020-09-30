@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PacktPublishing/Easy-Web-Scraping-with-Node.js-and-JavaScript/ch1/amazon-product-scraping.git"
+    "url": "git+https://github.com/PacktPublishing/Easy-Web-Scraping-with-Node.js-and-JavaScript/ch1.git"
   },
   "author": "Igor Savinkin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PacktPublishing/Easy-Web-Scraping-with-Node.js-and-JavaScript/ch1/amazon-product-scraping/issues"
+    "url": "https://github.com/PacktPublishing/Easy-Web-Scraping-with-Node.js-and-JavaScript/ch1/issues"
   },
-  "homepage": "https://github.com/PacktPublishing/Easy-Web-Scraping-with-Node.js-and-JavaScript/ch1/amazon-product-scraping#readme",
+  "homepage": "https://github.com/PacktPublishing/Easy-Web-Scraping-with-Node.js-and-JavaScript/ch1#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "peto": "^1.0.0"
